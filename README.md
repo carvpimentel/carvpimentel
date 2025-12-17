@@ -25,5 +25,8 @@ Sou Analista de Projetos em uma multinacional com foco em dados, utilizando Pyth
 ## 🎯 Objetivo
 Construir um portfólio sólido de projetos em análise de dados com foco em problemas reais para agregar valor e criar soluções.
 
+Estou sempre aberto a novas conexões!
+Se meu perfil foi interessante de alguma forma, fique a vontade para entrar em contato.
+
 📫 Conecte-se comigo:
 - LinkedIn: (https://www.linkedin.com/in/rafael-carvalho-pimentel/)

@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rafael Carvalho
 
-<!--
-**carvpimentel/carvpimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista de Projetos em uma multinacional com foco em dados, utilizando Python para análise, visualização e apoio à tomada de decisão.
 
-Here are some ideas to get you started:
+## 🧠 Habilidades
+- Python (Certificado pela DSA)
+   VS Code e Jupyter Notebook
+   Pandas e NumPy
+   Estatística Descritiva & Inferencial
+   Visualização de Dados (Matplotlib e Seaborn)
+   Lógica de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL (Certificado pela FGV)
+   MySQL e Dbeaver
+   DML (SELECT, INSERT, UPDATE, DELETE, UNION, JOIN, GROUP BY)
+   BEGIN TRANSACTION
+   DDL (CREATE, ALTER, DROP)
+
+- PMBOK (finalizando meu MBA em Gestão de Projetos - fev/2026)
+- PMO (Certificado pela FGV - 2024)
+- SCRUM (certificado pela CertiProf - 2024)
+- KANBAN
+- IA
+
+## 🎯 Objetivo
+Construir um portfólio sólido de projetos em análise de dados com foco em problemas reais para agregar valor e criar soluções.
+
+📫 Conecte-se comigo:
+- LinkedIn: (https://www.linkedin.com/in/rafael-carvalho-pimentel/)

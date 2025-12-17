@@ -20,7 +20,7 @@ Sou Analista de Projetos em uma multinacional com foco em dados, utilizando Pyth
 - PMO (Certificado pela FGV - 2024)
 - SCRUM (certificado pela CertiProf - 2024)
 - KANBAN
-- IA
+- IA (Chat GPT, Gemini, Copilot)
 
 ## 🎯 Objetivo
 Construir um portfólio sólido de projetos em análise de dados com foco em problemas reais para agregar valor e criar soluções.

@@ -13,7 +13,6 @@ Sou Analista de Projetos em uma multinacional com foco em dados, utilizando Pyth
 - SQL (Certificado pela FGV)
    MySQL e Dbeaver
    DML (SELECT, INSERT, UPDATE, DELETE, UNION, JOIN, GROUP BY)
-   BEGIN TRANSACTION
    DDL (CREATE, ALTER, DROP)
 
 - PMBOK (finalizando meu MBA em Gestão de Projetos - fev/2026)

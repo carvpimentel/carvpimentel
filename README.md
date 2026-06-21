@@ -28,4 +28,4 @@ Estou sempre aberto a novas conexões!
 Se meu perfil foi interessante de alguma forma, fique a vontade para entrar em contato.
 
 📫 Conecte-se comigo:
-- LinkedIn: (https://www.linkedin.com/in/rafael-carvalho-pimentel/)
+- LinkedIn: (https://www.linkedin.com/in/rafael-carvalho-analytics/)
